@@ -53,6 +53,24 @@ p{
     line-height: 1.2em;
 }
 
+.bow-left{
+    background-image: url("bow_left.png");
+    background-repeat: no-repeat;
+    height:77px;
+    width: 47px;
+    position: absolute;
+
+}
+
+.bow-right{
+    background-image: url("bow_right.png");
+    background-repeat: no-repeat;
+    height:77px;
+    width: 47px;
+    position: absolute;
+
+}
+
 .na,a{
     font-size: 16px;
     color: #ffff;
